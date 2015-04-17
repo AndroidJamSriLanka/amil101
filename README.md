@@ -1,4 +1,4 @@
-Quick Shopping
+﻿Quick Shopping
 Problem : People have to waste time while their shopping in supermarket to find the goods and collect them. Specially people in  urban areas don’t have much time to shopping daily.
 
 
